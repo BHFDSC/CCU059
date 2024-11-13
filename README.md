@@ -14,7 +14,7 @@ Our findings will potentially save lives through a combination of identification
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-* [CCU059_01: Combinations of multiple long-term conditions and risk of hospitalisation or death during winter 2021-22: population-based cohort study of 48 million people in England](https://github.com/BHFDSC/CCU059_01)
+* [CCU059_01: Combinations of multiple long term conditions and risk of hospital admission or death during winter 2021-22 in England: population based cohort study](https://github.com/BHFDSC/CCU059_01)
 
 ## Project approval
 
